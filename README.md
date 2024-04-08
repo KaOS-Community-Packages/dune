@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Dune - A Composable Build System for OCaml</h1>
 
-<h3 style="text-align: center;">[HOME](https://dune.build/) | [SOURCE](https://github.com/ocaml/dune)</h4>
+### [HOME](https://dune.build/) | [SOURCE](https://github.com/ocaml/dune)
 
 ___
 
